@@ -48,3 +48,12 @@ body{
     height: 300px;
     width: 400px;
 }
+
+#final_result{
+    margin-top: 100px;
+    font-size: 25px;
+    background: #ffd2c7;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
